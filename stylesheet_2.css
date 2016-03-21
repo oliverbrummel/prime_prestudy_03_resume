@@ -1,0 +1,62 @@
+body {
+    background-color: burlywood;
+    background-image: url(http://i.stack.imgur.com/jGlzr.png);
+    background-repeat: repeat;
+    font-family: Copperplate, fantasy, sans-serif;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  display: none;
+}
+header {
+  background-color: #663300;
+  color: #fff3e6;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 50px;
+}
+
+.center {
+    text-align: center;
+    font-weight: bold;
+}
+
+p.center {
+    font-size: 1.2em;
+}
+
+.head {
+    text-align: center;
+    color: #fff3e6;
+    background-color: #663300;
+    font-size: 1.4em;
+    font-weight: bold;
+
+}
+
+
+figure {
+  text-align: center;
+}
+
+figure img {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px groove #bfbfbf;
+    background-color:burlywood;
+    height: 200px;
+    width: 200px;
+  }
+
+figcaption {
+  font-size: .7em;
+}
